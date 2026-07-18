@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,Menlo,monospace">
+  <rect x="1.5" y="1.5" width="877" height="247" rx="12" fill="#081120" stroke="#1B2C47" stroke-width="1.5"/>
+
+  <text x="34" y="40" font-size="13" fill="#4ADE80" xml:space="preserve">$ <tspan fill="#E9E4D6">nmap -sV zain.dev</tspan>  <tspan fill="#33486B">## capability scan</tspan></text>
+  <text x="34" y="64" font-size="12" fill="#5C7291" xml:space="preserve">Starting scan... 4 domains up (0.0027s latency)</text>
+
+  <!-- rows: label, bracket bar, detail -->
+  <g font-size="13" xml:space="preserve">
+    <!-- SECURITY -->
+    <text x="34"  y="100" fill="#E8B44F">PORT 443/sec</text>
+    <text x="176" y="100" fill="#33486B">[</text>
+    <rect x="186" y="89" width="240" height="13" fill="#122442" opacity="0.6"/>
+    <rect x="186" y="89" width="0" height="13" fill="#E8B44F"><animate attributeName="width" begin="0.4s" dur="1.2s" to="234" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+    <text x="430" y="100" fill="#33486B">]</text>
+    <text x="452" y="100" fill="#8FA3BF">pentesting · IR · NIDS · OSINT · Wireshark · Snort</text>
+
+    <!-- SOFTWARE -->
+    <text x="34"  y="132" fill="#E8B44F">PORT 3000/dev</text>
+    <text x="176" y="132" fill="#33486B">[</text>
+    <rect x="186" y="121" width="240" height="13" fill="#122442" opacity="0.6"/>
+    <rect x="186" y="121" width="0" height="13" fill="#E8B44F"><animate attributeName="width" begin="0.8s" dur="1.2s" to="228" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+    <text x="430" y="132" fill="#33486B">]</text>
+    <text x="452" y="132" fill="#8FA3BF">React · Next.js · TypeScript · FastAPI · Python · Java</text>
+
+    <!-- AI -->
+    <text x="34"  y="164" fill="#E8B44F">PORT 8000/ai</text>
+    <text x="176" y="164" fill="#33486B">[</text>
+    <rect x="186" y="153" width="240" height="13" fill="#122442" opacity="0.6"/>
+    <rect x="186" y="153" width="0" height="13" fill="#E8B44F"><animate attributeName="width" begin="1.2s" dur="1.2s" to="216" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+    <text x="430" y="164" fill="#33486B">]</text>
+    <text x="452" y="164" fill="#8FA3BF">LLM agents · streaming ML · Pathway · Bedrock · RAG</text>
+
+    <!-- CLOUD -->
+    <text x="34"  y="196" fill="#E8B44F">PORT 22/cloud</text>
+    <text x="176" y="196" fill="#33486B">[</text>
+    <rect x="186" y="185" width="240" height="13" fill="#122442" opacity="0.6"/>
+    <rect x="186" y="185" width="0" height="13" fill="#E8B44F"><animate attributeName="width" begin="1.6s" dur="1.2s" to="204" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+    <text x="430" y="196" fill="#33486B">]</text>
+    <text x="452" y="196" fill="#8FA3BF">AWS · Docker · Firebase · Vercel · Linux · Playwright</text>
+  </g>
+
+  <text x="34" y="228" font-size="12" fill="#5C7291" opacity="0" xml:space="preserve">Scan complete: <tspan fill="#4ADE80">4 services open</tspan> · 0 vulnerabilities · uptime since 2023<animate attributeName="opacity" begin="3s" dur="0.5s" to="1" fill="freeze"/></text>
+
+  <!-- sweeping scan beam -->
+  <rect x="0" y="76" width="3" height="134" fill="#E8B44F" opacity="0.35">
+    <animate attributeName="x" begin="0s" dur="3.4s" values="20;858" repeatCount="1" fill="freeze"/>
+    <animate attributeName="opacity" begin="3.2s" dur="0.4s" to="0" fill="freeze"/>
+  </rect>
+</svg>

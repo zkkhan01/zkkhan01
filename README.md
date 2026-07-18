@@ -1,101 +1,55 @@
-# Zain Khan
+<div align="center">
 
-**Cybersecurity and software engineering student at DePaul University.**
-Building secure, AI-powered systems at the intersection of health, finance, and security.
+<img src="./assets/hero.svg" width="880" alt="Zain Khan — cybersecurity, software engineering, AI systems" />
 
-🎓 B.S. Cybersecurity · Computer Science minor &nbsp;|&nbsp; 📍 Chicago, IL &nbsp;|&nbsp; 🛡 50+ certifications
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zainkkhan.vercel.app-blue?style=flat-square)](https://zainkkhan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zainkhalilkhan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/zainkhalilkhan)
-[![Email](https://img.shields.io/badge/Email-zainkhalilkhan1%40gmail.com-red?style=flat-square)](mailto:zainkhalilkhan1@gmail.com)
+<a href="https://zainkkhan.vercel.app"><img src="https://img.shields.io/badge/portfolio-zainkkhan.vercel.app-E8B44F?style=flat-square&labelColor=081120" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/zainkhalilkhan"><img src="https://img.shields.io/badge/linkedin-zainkhalilkhan-5C7291?style=flat-square&logo=linkedin&logoColor=E9E4D6&labelColor=081120" alt="LinkedIn"/></a>
+<a href="mailto:zainkhalilkhan1@gmail.com"><img src="https://img.shields.io/badge/email-zainkhalilkhan1@gmail.com-5C7291?style=flat-square&labelColor=081120" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=zkkhan01&style=flat-square&color=E8B44F&label=visitors" alt="Profile views"/>
 
----
+<img src="./assets/divider.svg" width="880" alt="" />
 
-## What I Work On
+<img src="./assets/scan.svg" width="880" alt="Capability scan: security, software, AI, cloud" />
 
-| Area | Focus |
-|------|-------|
-| 🔐 Cybersecurity | Penetration testing, incident response, DDoS research, NIDS, secure architecture |
-| 🤖 Software & AI | AI agents, LLM reasoning, intelligent automation, ML pipelines, full-stack apps |
-| ☁️ Systems & Cloud | FastAPI, React/Next.js, Docker, AWS, Firebase, Linux |
-
----
+</div>
 
 ## Featured Projects
 
-### 🌸 BloomGuard — Maternal Health AI Platform
-Full-stack prototype for AI-powered risk tracking and clinician oversight.
-- Symptom and vital logging with daily tracking
-- AI-driven risk scores with clear explanations
-- Clinician dashboard with real-time patient prioritization
+| Project | What it does | Stack | |
+|---|---|---|---|
+| 🛡️ **Aegis Intelligence** | Cybersecurity threat intelligence platform with a live recon-stream landing experience | React · FastAPI · OSINT tooling | private |
+| 🌸 **[BloomGuard](https://github.com/zkkhan01/BloomGuard)** | Maternal health AI: risk scoring, symptom tracking, real-time clinician dashboard | FastAPI · Pathway · Next.js · TS · Docker | [repo](https://github.com/zkkhan01/BloomGuard) |
+| 💼 **[FinSight](https://github.com/zkkhan01/FinSight)** | Financial document intelligence: extraction, KYC/AML rule engine, LLM explanations | LandingAI ADE · AWS Bedrock · React | [repo](https://github.com/zkkhan01/FinSight) |
+| 🧠 **[RelapseRadar](https://github.com/zkkhan01/relapseradar)** | Streaming relapse prevention: live risk scores from wearable + self-reported data | Pathway · Python · FastAPI | [repo](https://github.com/zkkhan01/relapseradar) |
+| 🔧 **Fixr** | IT support portal for Premier Early Childhood Education: dashboards, admin panel, live chat | React · Firebase · AI chat | client |
+| 📆 **[Scheduling Platform](https://github.com/zkkhan01/dpu-athletics)** | Cross-platform team scheduling: shift swaps, RBAC, shared web/mobile backend | Flask · React · React Native · Firebase | [repo](https://github.com/zkkhan01/dpu-athletics) |
+| 🧪 **[Grading Engine](https://github.com/zkkhan01/grading)** | Hybrid Java/Python autograder: compilation, sandboxed test harness, batch reports | Java · Python | [repo](https://github.com/zkkhan01/grading) |
 
-**Tech:** FastAPI · Pathway · Next.js 16 · TypeScript · Tailwind · shadcn · Docker &nbsp;|&nbsp; [Repo](https://github.com/zkkhan01/BloomGuard)
+**Client work** · [premierearlychildhood.com](https://premierearlychildhood.com) · [courtsideconsulting.org](https://courtsideconsulting.org) · [pjjf.org](https://pjjf.org)
 
----
+<div align="center"><img src="./assets/divider.svg" width="880" alt="" /></div>
 
-### 💼 FinSight — AI Financial Document Intelligence
-End-to-end agent for financial document extraction, validation, and compliance checks.
-- LandingAI ADE for document field extraction
-- Rule engine for KYC and AML compliance checks
-- AWS Bedrock LLM for explanations and ambiguity handling
+## Stats
 
-**Tech:** FastAPI · Python · LandingAI ADE · AWS Bedrock · React · Docker &nbsp;|&nbsp; [Repo](https://github.com/zkkhan01/FinSight)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=zkkhan01&show_icons=true&hide_border=true&bg_color=081120&title_color=E8B44F&text_color=8FA3BF&icon_color=E8B44F&ring_color=E8B44F" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkkhan01&layout=compact&hide_border=true&bg_color=081120&title_color=E8B44F&text_color=8FA3BF&langs_count=8" height="165" alt="Top languages"/>
 
-### 🧠 RelapseRadar — Predictive Relapse Prevention
-Streaming AI system that tracks wellness metrics and surfaces evolving relapse risk.
-- Ingests simulated wearable and self-reported data
-- Maintains a live risk score with explanations
-- Provides supportive coaching suggestions through an API
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zkkhan01&bg_color=081120&color=8FA3BF&line=E8B44F&point=E9E4D6&area=true&area_color=E8B44F&hide_border=true" width="880" alt="Contribution graph"/>
 
-**Tech:** Pathway · Python · FastAPI &nbsp;|&nbsp; [Repo](https://github.com/zkkhan01/relapseradar)
+</div>
 
----
+## Certifications
 
-### 📆 Employee Scheduling & Team Management
-Cross-platform scheduling platform for teams.
-- Real-time schedules, shift swapping, and team communication
-- Role-based access control with permissions matching responsibilities
-- Web and mobile apps sharing a common backend
+`Certified Ethical Hacker` `Microsoft Security Essentials` `AWS Security Fundamentals` `Career Essentials in Cybersecurity` `Java Foundations (JetBrains)` `React Essential Training` `+ 40 more`
 
-**Tech:** Flask · React · React Native · Firebase &nbsp;|&nbsp; [Repo](https://github.com/zkkhan01/dpu-athletics)
+<div align="center">
 
----
+<img src="./assets/divider.svg" width="880" alt="" />
 
-### 🧪 Automated Java & Python Grading Engine
-Hybrid autograder for large-scale grading of programming assignments.
-- Java grading engine for compilation, test harness, and execution
-- Python orchestration for batch processing and isolation
-- Detailed pass/fail reports and error summaries
+<img src="./assets/footer.svg" width="880" alt="Open to internships, research, and collaborations" />
 
-**Tech:** Java · Python &nbsp;|&nbsp; [Repo](https://github.com/zkkhan01/grading)
-
----
-
-## Skills
-
-**Security**
-`Penetration Testing` `Incident Response` `DDoS Analysis` `Network Security` `NIDS` `IAM`
-
-**Software & AI**
-`Python` `Java` `JavaScript` `TypeScript` `FastAPI` `Flask` `React` `Next.js` `Pathway` `Scikit-learn` `REST APIs` `Docker` `SQL`
-
-**Cloud & Platforms**
-`AWS` `Firebase` `Microsoft 365` `Linux` `Windows Server` `ServiceNow`
-
----
-
-## Selected Certifications
-
-- Certified Ethical Hacker
-- Microsoft Security Essentials Professional Certificate
-- Career Essentials in Cybersecurity
-- AWS Administration: Security Fundamentals
-- Java Foundations Professional Certificate · JetBrains
-- React Essential Training
-- Building Production Ready React Apps
-
----
-
-> Open to internships, collaborations, research, and hackathons. Feel free to reach out.
+</div>
