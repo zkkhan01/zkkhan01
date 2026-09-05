@@ -27,7 +27,6 @@
 | 📆 **[Scheduling Platform](https://github.com/zkkhan01/dpu-athletics)** | Cross-platform team scheduling: shift swaps, RBAC, shared web/mobile backend | Flask · React · React Native · Firebase | [repo](https://github.com/zkkhan01/dpu-athletics) |
 | 🧪 **[Grading Engine](https://github.com/zkkhan01/grading)** | Hybrid Java/Python autograder: compilation, sandboxed test harness, batch reports | Java · Python | [repo](https://github.com/zkkhan01/grading) |
 
-**Client work** · [premierearlychildhood.com](https://premierearlychildhood.com) · [courtsideconsulting.org](https://courtsideconsulting.org) · [pjjf.org](https://pjjf.org)
 
 <div align="center"><img src="./assets/divider.svg" width="880" alt="" /></div>
 
