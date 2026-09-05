@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+<title id="title">Zain Khan. Security minded. Builder driven.</title>
+<desc id="desc">Cybersecurity, software engineering, and applied AI. Chicago, DePaul University. Gold orbital paths surround a ZK monogram on deep navy.</desc>
+<defs>
+<radialGradient id="light"><stop stop-color="#253749"/><stop offset="1" stop-color="#081120"/></radialGradient>
+<linearGradient id="gold" x2="1" y2="1"><stop stop-color="#FFE7AE"/><stop offset=".55" stop-color="#E8B44F"/><stop offset="1" stop-color="#B98228"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#26354A" stroke-width=".6"/></pattern>
+<clipPath id="clip"><rect width="960" height="420" rx="20"/></clipPath>
+</defs>
+<style>
+.orbit{transform-origin:756px 195px;animation:orbit 36s linear infinite}
+.signal{animation:signal 6s ease-in-out infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes signal{0%,100%{opacity:.45}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.orbit,.signal{animation:none}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="960" height="420" fill="#081120"/>
+<circle cx="760" cy="185" r="295" fill="url(#light)"/>
+<path d="M575 0H960V420H575Z" fill="url(#grid)" opacity=".55"/>
+<path d="M40 43H920" stroke="#354257"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="40" y="29" font-size="12" letter-spacing="2" fill="#BDCADB">ZK / ENGINEERING &amp; SECURITY</text>
+<text x="920" y="29" text-anchor="end" font-size="12" fill="#BDCADB">Chicago · DePaul University</text>
+<text x="40" y="110" font-size="19" fill="#E8B44F">Security minded. Builder driven.</text>
+<text x="34" y="204" font-size="88" font-weight="800" letter-spacing="-5" fill="#F4EEE2">Zain Khan<tspan fill="#E8B44F">.</tspan></text>
+<text x="40" y="247" font-size="22" fill="#BDCADB">Turning complex problems</text>
+<text x="40" y="277" font-size="22" fill="#BDCADB">into useful systems.</text>
+<rect x="40" y="311" width="133" height="32" rx="16" fill="#142238" stroke="#45536A"/>
+<rect x="183" y="311" width="108" height="32" rx="16" fill="#142238" stroke="#45536A"/>
+<rect x="301" y="311" width="118" height="32" rx="16" fill="#142238" stroke="#45536A"/>
+<g fill="#F4EEE2" font-size="13" text-anchor="middle"><text x="106" y="332">Cybersecurity</text><text x="237" y="332">Software</text><text x="360" y="332">Applied AI</text></g>
+<path d="M40 368H920" stroke="#354257"/>
+<circle cx="46" cy="393" r="4" fill="#E8B44F" class="signal"/>
+<text x="60" y="398" font-size="13" fill="#BDCADB">Open to internships, research &amp; collaboration</text>
+<text x="920" y="398" text-anchor="end" font-size="13" fill="#E8B44F">zainkkhan.vercel.app</text>
+</g>
+<g fill="none" stroke="#E8B44F" aria-hidden="true">
+<circle cx="756" cy="195" r="148" opacity=".18"/><circle cx="756" cy="195" r="112" opacity=".3"/>
+<g class="orbit"><ellipse cx="756" cy="195" rx="153" ry="62" transform="rotate(-35 756 195)" opacity=".65"/><circle cx="881" cy="107" r="5" fill="#FFE7AE" stroke="none"/><path d="M756 47A148 148 0 0 1 884 121" stroke-width="3"/></g>
+<path d="M756 112l72 41v84l-72 41-72-41v-84Z" fill="#0B1626" stroke="url(#gold)" stroke-width="2"/>
+<path d="M708 173h39l-39 44h39m17-44v44m32-44-30 23 31 21" stroke="url(#gold)" stroke-width="7" stroke-linejoin="round"/>
+<path d="M756 35v10m0 300v10M596 195h10m300 0h10" opacity=".6"/>
+</g></g></svg>
