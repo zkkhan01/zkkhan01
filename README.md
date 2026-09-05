@@ -1,54 +1,73 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" width="880" alt="Zain Khan. Cybersecurity, software engineering, and applied AI." />
+</p>
 
-<img src="./assets/hero.svg" width="880" alt="Zain Khan — cybersecurity, software engineering, AI systems" />
+# Zain Khan
 
-<br/>
+**I build software with a security mindset, from threat intelligence to applied AI systems.**
 
-<a href="https://zainkkhan.vercel.app"><img src="https://img.shields.io/badge/portfolio-zainkkhan.vercel.app-E8B44F?style=flat-square&labelColor=081120" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/zainkhalilkhan"><img src="https://img.shields.io/badge/linkedin-zainkhalilkhan-5C7291?style=flat-square&logo=linkedin&logoColor=E9E4D6&labelColor=081120" alt="LinkedIn"/></a>
-<a href="mailto:zainkhalilkhan1@gmail.com"><img src="https://img.shields.io/badge/email-zainkhalilkhan1@gmail.com-5C7291?style=flat-square&labelColor=081120" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=zkkhan01&style=flat-square&color=E8B44F&label=visitors" alt="Profile views"/>
+Based in Chicago, studying cybersecurity at DePaul University with a computer science minor. My work spans Python APIs, React interfaces, security tooling, and applied AI. I’m interested in internships, research, and collaborations across security and software engineering.
 
-<img src="./assets/divider.svg" width="880" alt="" />
-
-<img src="./assets/scan.svg" width="880" alt="Capability scan: security, software, AI, cloud" />
-
-</div>
+[Portfolio](https://zainkkhan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zainkhalilkhan/) · [Email](mailto:zainkhalilkhan1@gmail.com)
 
 ## Featured Projects
 
-| Project | What it does | Stack | |
-|---|---|---|---|
-| 🛡️ **Aegis Intelligence** | Cybersecurity threat intelligence platform with a live recon-stream landing experience | React · FastAPI · OSINT tooling | private |
-| 🌸 **[BloomGuard](https://github.com/zkkhan01/BloomGuard)** | Maternal health AI: risk scoring, symptom tracking, real-time clinician dashboard | FastAPI · Pathway · Next.js · TS · Docker | [repo](https://github.com/zkkhan01/BloomGuard) |
-| 💼 **[FinSight](https://github.com/zkkhan01/FinSight)** | Financial document intelligence: extraction, KYC/AML rule engine, LLM explanations | LandingAI ADE · AWS Bedrock · React | [repo](https://github.com/zkkhan01/FinSight) |
-| 🧠 **[RelapseRadar](https://github.com/zkkhan01/relapseradar)** | Streaming relapse prevention: live risk scores from wearable + self-reported data | Pathway · Python · FastAPI | [repo](https://github.com/zkkhan01/relapseradar) |
-| 🔧 **Fixr** | IT support portal for Premier Early Childhood Education: dashboards, admin panel, live chat | React · Firebase · AI chat | client |
-| 📆 **[Scheduling Platform](https://github.com/zkkhan01/dpu-athletics)** | Cross-platform team scheduling: shift swaps, RBAC, shared web/mobile backend | Flask · React · React Native · Firebase | [repo](https://github.com/zkkhan01/dpu-athletics) |
-| 🧪 **[Grading Engine](https://github.com/zkkhan01/grading)** | Hybrid Java/Python autograder: compilation, sandboxed test harness, batch reports | Java · Python | [repo](https://github.com/zkkhan01/grading) |
+Ten selected builds, in the order featured on my [portfolio](https://zainkkhan.vercel.app). Each project title opens its overview and available demo.
 
+| Project | What I’m building |
+| --- | --- |
+| **[Aegis Intelligence](https://zainkkhan.vercel.app/projects/aegis-intelligence)** | A reconnaissance assistant that turns Nmap and Gobuster output into structured findings, adds OSINT context, and maps potential attack paths. |
+| **[Aegis SOC Analyst](https://zainkkhan.vercel.app/projects/aegis-soc-analyst)** | A security operations platform for normalizing telemetry, correlating MITRE ATT&CK detections, scoring incidents, and investigating events with a threat-hunting console. |
+| **[Xternal](https://zainkkhan.vercel.app/projects/xternal)** | AI agents and workflow automation for operations, education, marketing, and internal service desks. |
+| **[Flight Tracker](https://zainkkhan.vercel.app/projects/flight-tracker)** | Flight intelligence combining natural-language search, multiple telemetry sources, map tracking, flight-phase classification, and airport boards. |
+| **[FinSight](https://zainkkhan.vercel.app/projects/finsight)** | Financial document intelligence with evidence extraction, KYC/AML validation, and credit-card comparison workflows. [Public repository](https://github.com/zkkhan01/FinSight). |
+| **[Khan OS](https://zainkkhan.vercel.app/projects/khan-os)** | A personal AI workspace with multimodal conversation, local utilities, reminders, and agent planning with explicit tool permissions and approvals. |
+| **[Fixr](https://zainkkhan.vercel.app/projects/fixr)** | Hardware troubleshooting through text, images, and camera input, with guided repair steps. |
+| **[Airport Operations Simulator](https://zainkkhan.vercel.app/projects/airport-operations-simulator)** | An airport simulation for exploring aircraft movements, gate allocation, congestion, and responses to operational disruptions. |
+| **[Travel Intelligence](https://zainkkhan.vercel.app/projects/travel-intelligence)** | A travel-planning experience bringing destination research, flights, ground transportation, and itinerary recommendations together. |
+| **[Employee Scheduling & Team Management](https://zainkkhan.vercel.app/projects/employee-management)** | Web and mobile scheduling with shift swaps, real-time updates, and role-based access, built with Flask, React, React Native, and Firebase. |
 
-<div align="center"><img src="./assets/divider.svg" width="880" alt="" /></div>
+**More public code:** [InterviewIQ / Prepti](https://github.com/zkkhan01/InterviewIQ), AI interview practice built with Shanzay Khan for HackIllinois; [BloomGuard](https://github.com/zkkhan01/BloomGuard), a maternal health workflow prototype; [RelapseRadar](https://github.com/zkkhan01/relapseradar), a streaming risk-scoring demo.
 
-## Stats
+## Client & Portfolio Work
 
-<div align="center">
+Beyond public repositories, I build websites and tools for education, consulting, and nonprofit organizations.
 
-<img src="https://github-readme-stats.vercel.app/api?username=zkkhan01&show_icons=true&hide_border=true&bg_color=081120&title_color=E8B44F&text_color=8FA3BF&icon_color=E8B44F&ring_color=E8B44F" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkkhan01&layout=compact&hide_border=true&bg_color=081120&title_color=E8B44F&text_color=8FA3BF&langs_count=8" height="165" alt="Top languages"/>
+- [Premier Early Childhood Education](https://premierearlychildhood.com)
+- [Courtside Consulting](https://courtsideconsulting.org)
+- [PJJF](https://pjjf.org)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zkkhan01&bg_color=081120&color=8FA3BF&line=E8B44F&point=E9E4D6&area=true&area_color=E8B44F&hide_border=true" width="880" alt="Contribution graph"/>
+## Technical Focus
 
-</div>
+| Area | Tools and interests |
+| --- | --- |
+| Security | TLS, identity and access control, secure coding, threat intelligence |
+| Software | Python, TypeScript, JavaScript, React, Next.js, FastAPI, Flask |
+| AI & data | Gemini API, document extraction, Pathway, rule-based validation |
+| Cloud & delivery | AWS, Firebase, Docker, Git |
 
-## Certifications
+## Certifications & Continuing Education
 
-`Certified Ethical Hacker` `Microsoft Security Essentials` `AWS Security Fundamentals` `Career Essentials in Cybersecurity` `Java Foundations (JetBrains)` `React Essential Training` `+ 40 more`
+Selected professional certificates and coursework:
 
-<div align="center">
+- **Microsoft Security Essentials Professional Certificate** · Microsoft
+- **Career Essentials in Cybersecurity** · Microsoft and LinkedIn
+- **AWS Administration: Security Fundamentals** · LinkedIn Learning
+- **Java Foundations Professional Certificate** · JetBrains
+- **React Essential Training** · LinkedIn Learning
 
-<img src="./assets/divider.svg" width="880" alt="" />
+[View the full credential and coursework catalog](https://zainkkhan.vercel.app/certifications).
 
-<img src="./assets/footer.svg" width="880" alt="Open to internships, research, and collaborations" />
+## GitHub Activity
 
-</div>
+<a href="https://github.com/zkkhan01?tab=repositories"><img src="./assets/stats.svg" width="960" alt="Public GitHub snapshot: repositories, primary languages, and stars. The card includes its last successful refresh date." /></a>
+
+[Recent repositories](https://github.com/zkkhan01?tab=repositories&sort=updated) · [Contribution history](https://github.com/zkkhan01?tab=overview)
+
+The card is stored in this repository and refreshed daily by GitHub Actions. Counts cover public, non-fork repositories; language counts describe repositories, not proficiency. The date shows the last successful refresh.
+
+## Let’s Connect
+
+For security and software engineering internships, research, or project collaborations:
+
+**[zainkhalilkhan1@gmail.com](mailto:zainkhalilkhan1@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/zainkhalilkhan/) · [Portfolio](https://zainkkhan.vercel.app)
