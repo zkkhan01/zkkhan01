@@ -33,9 +33,7 @@ Ten selected builds, in the order featured on my [portfolio](https://zainkkhan.v
 
 Beyond public repositories, I build websites and tools for education, consulting, and nonprofit organizations.
 
-- [Premier Early Childhood Education](https://premierearlychildhood.com)
-- [Courtside Consulting](https://courtsideconsulting.org)
-- [PJJF](https://pjjf.org)
+
 
 ## Technical Focus
 
